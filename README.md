@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/x9s0y1cnqxxs64gu?svg=true)](https://ci.appveyor.com/project/Ka2sik/automationhw2)
+[![Java CI with Gradle](https://github.com/Ka2sik/AutomationHW2/actions/workflows/gradle.yml/badge.svg)](https://github.com/Ka2sik/AutomationHW2/actions/workflows/gradle.yml)
