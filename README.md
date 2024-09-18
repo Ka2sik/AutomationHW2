@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/x9s0y1cnqxxs64gu?svg=true)](https://ci.appveyor.com/project/Ka2sik/automationhw2)
